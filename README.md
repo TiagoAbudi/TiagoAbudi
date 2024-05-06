@@ -30,7 +30,8 @@
 </div> <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabudi&layout=compact)
-<div/>
+<div/> <br/>
+    
 ## Sistemas operacionais
 
 <div style="display: inline_block"><br/>
