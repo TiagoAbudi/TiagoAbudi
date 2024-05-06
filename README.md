@@ -1,7 +1,7 @@
 
 ### Opa eu sou o Tiago Abudi ✌🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abudi-12502b22b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_abudi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544991619288) [![Slack](    https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/solumobidevs/shared_invite/zt-2gkmhos41-1c4aUN5DkEJfxFa0w8sQ9g) [![Site Solumobi](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://solumobi.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abudi-12502b22b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_abudi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544991619288) [![Site Solumobi](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://solumobi.com.br/)
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoabudi&show_icons=true&theme=dracula)
 
