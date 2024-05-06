@@ -1,16 +1,17 @@
-
 ### Opa eu sou o Tiago Abudi ✌🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-abudi-12502b22b/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_abudi/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5544991619288) [![Site Solumobi](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://solumobi.com.br/)
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoabudi&show_icons=true&theme=dracula)
 
-
 <img align="left" height="250" alt="snake game" src="github-contribution-grid-snake.svg">
 
 ## Tecnologias
-
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
+    <img align="left" height="300" alt="coding" src="code.gif">
+<div/>
+    
+<div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -28,9 +29,9 @@
     <img align="center" alt="json web tokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
 </div> <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabudi&layout=compact) <img align="left" height="250" alt="coding" src="code.gif">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabudi&layout=compact)
 
-## Sistemas operacionais 
+## Sistemas operacionais
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
