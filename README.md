@@ -7,6 +7,8 @@
 
 ![Snake animation] ([https://github.com/tiagoabudi/tiagoabudi/blob/main/github-contribuition-grid-snake.svg](https://github.com/TiagoAbudi/TiagoAbudi/blob/main/github-contribution-grid-snake.svg))
 
+<img align="left" height="250" alt="coding-time" src="github-contribution-grid-snake.svg">
+
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
