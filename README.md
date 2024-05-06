@@ -5,7 +5,7 @@
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoabudi&show_icons=true&theme=dracula)
 
-![Snake animation] (https://github.com/tiagoabudi/tiagoabudi/blob/main/github-contribuition-grid-snake.svg)
+![Snake animation] ([https://github.com/tiagoabudi/tiagoabudi/blob/main/github-contribuition-grid-snake.svg](https://github.com/TiagoAbudi/TiagoAbudi/blob/main/github-contribution-grid-snake.svg))
 
 ## Tecnologias
 
