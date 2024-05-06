@@ -7,9 +7,9 @@
 <img align="left" height="250" alt="snake game" src="github-contribution-grid-snake.svg">
 
 ## Tecnologias
-<div style="display: inline_block">
+<div style="display: inline_block" height="300">
     <img align="left" height="300" alt="coding" src="code.gif">
-<div/>
+
     
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@
 </div> <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabudi&layout=compact)
-
+<div/>
 ## Sistemas operacionais
 
 <div style="display: inline_block"><br/>
