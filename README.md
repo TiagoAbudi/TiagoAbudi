@@ -5,9 +5,8 @@
 
 ![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoabudi&show_icons=true&theme=dracula)
 
-![Snake animation] ([https://github.com/tiagoabudi/tiagoabudi/blob/main/github-contribuition-grid-snake.svg](https://github.com/TiagoAbudi/TiagoAbudi/blob/main/github-contribution-grid-snake.svg))
 
-<img align="left" height="250" alt="coding-time" src="github-contribution-grid-snake.svg">
+<img align="left" height="250" alt="snake game" src="github-contribution-grid-snake.svg">
 
 ## Tecnologias
 
@@ -29,7 +28,7 @@
     <img align="center" alt="json web tokens" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
 </div> <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabudi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabudi&layout=compact) <img align="left" height="250" alt="coding" src="code.gif">
 
 ## Sistemas operacionais 
 
