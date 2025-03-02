@@ -56,7 +56,9 @@
     <img align="center" alt="linux" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div> <br/>
 
-- Cursando Engenharia de Software na Unicesumar (4/4) 📚
+- Formado em Bacharel em Engenharia de Software na Unicesumar 📚
+
+- Cursando Pós-Graduação em Desenvolvimento de Sistemas com JAVA na Unicesumar 📚
 
 - Atualmente trabalho como desenvolvedor front-end na Solumobi
 
